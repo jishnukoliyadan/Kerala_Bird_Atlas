@@ -7,6 +7,15 @@
 - The surveys for the KBA were constructed during **2015 to 2020** and it it the Asia's largest bird atlas in terms of geographical extent, sampling effort and the species coverage.
 - KBA accounted for nearly three lakh records of **361** species, including **94** very rare species, **103** rare species, **110** common species, **44** very common species, and **10** most abundant species.
 
+<div style="text-align:center;">
+<br>
+<a href = 'https://colab.research.google.com/github/jishnukoliyadan/Kerala_Bird_Atlas//blob/master/Kerala_Bird_Atlas.ipynb'><img src = 'https://raw.githubusercontent.com/jishnukoliyadan/usefull_items/master/svgs/Colab_Run_In.svg' width = 23%></a>
+<a href = 'https://github.com/jishnukoliyadan/Kerala_Bird_Atlas/blob/master/Kerala_Bird_Atlas.ipynb'><img src = 'https://raw.githubusercontent.com/jishnukoliyadan/usefull_items/master/svgs/GitHub_View_Source.svg' width = 23%></a>
+<a href = 'https://www.kaggle.com/code/jishnukoliyadan/kerala-bird-atlas-eda'><img src = 'https://raw.githubusercontent.com/jishnukoliyadan/usefull_items/master/svgs/Kaggle_View_On.svg' width = 23%></a>
+<a href = 'https://nbviewer.org/github/jishnukoliyadan/Kerala_Bird_Atlas/blob/master/Kerala_Bird_Atlas.ipynb'><img src = 'https://raw.githubusercontent.com/jishnukoliyadan/usefull_items/master/svgs/NbViwer_View_In.svg' width = 23%></a>
+<br>
+</div>
+
 ## Data Set
 
 - The [data](https://www.kaggle.com/datasets/jishnukoliyadan/kerala-bird-atlas-20152020) is made available in the R object format, ie in **.rds** format.

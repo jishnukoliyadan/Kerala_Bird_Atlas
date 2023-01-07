@@ -1,0 +1,14 @@
+name: birdenv
+channels:
+  - defaults
+dependencies:
+  - pip=21.2.4
+  - python=3.9.12
+  - pip:
+      - jupyterlab==3.4.3
+      - numpy==1.23.4
+      - pandas==1.5.1
+      - pyreadr==0.4.7
+      - seaborn==0.12.1
+      - tqdm==4.64.1
+      - ipywidgets==8.0.3
